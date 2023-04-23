@@ -227,3 +227,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 750.979174 seconds.
+  path: Assets/model
+  artifactKey: Guid(a634796c6c5c0324fb15231fdbb6eb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model using Guid(a634796c6c5c0324fb15231fdbb6eb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b70076836050d7c9dec091b572a0988') in 0.007718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.058552 seconds.
+  path: Assets/model/s1280122.fbx
+  artifactKey: Guid(cd729ccb5d4cb1a41923d317da6a919c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/s1280122.fbx using Guid(cd729ccb5d4cb1a41923d317da6a919c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c01759e549236b82abbcd1eb6de274') in 0.137633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.751997 seconds.
+  path: Assets/model/s1280122.fbx
+  artifactKey: Guid(cd729ccb5d4cb1a41923d317da6a919c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/s1280122.fbx using Guid(cd729ccb5d4cb1a41923d317da6a919c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936e80358da3196ef026a3bd472fbbab') in 0.030108 seconds 
